@@ -32,7 +32,7 @@ Exploring US flights of 2008 and answering on:-
 
 The data consists of flight arrival and departure details for all commercial flights within the USA, from October 1987 to April 2008. This is a large dataset: there are nearly 120 million records in total, and takes up 1.6 gigabytes of space compressed and 12 gigabytes when uncompressed. To make sure not overwhelmed by the size of the data.
 
-The data is separated by year. We decided to explore only the flights on 2018 because it was the nearest year that contained a full data files.
+The data is separated by year. We decided to explore only the flights on 2008 because it was the nearest year that contained a full data files.
 
 I'll probably be using many of the variables in the data set like Month, DayofMonth, DayOfWeek, UniqueCarrier, Distance, Cancelled, CancellationCode. Others like delay related features, fligth number and taxi times don't seem like they'll be very useful for me.
 
